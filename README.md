@@ -1,45 +1,49 @@
-# Hi there, I'm HARLAN! 👋
+# Hi, I'm Harlan 👋
 
-![Banner Image](your_banner_image_url_here)
+Composer, pianist, educator — and founder of **[What Is Artistry](https://whatisartistry.com)**, a company building tools for the working musician at the intersection of tradition and technology.
 
-## About Me 🚀
+West Texas born. 35+ years in music. Hollywood scoring credits across Disney, Netflix, Pixar, and Riot Games. Emmy nominated. Currently on faculty at the University of North Texas (Jazz Studies).
 
-I'm a Composer and Studio Pianist from TX 🏴󠁵󠁳󠁴󠁸󠁿 with experience in all kinds of music and styles.  I dabble in programming MAX/MSP, Python, and I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.  I'm currently an adjunct music professor at the University of North Texas in the division of jazz studies and am planning on pursuing a PhD in Advance Computer Music Research Fall 2026.
+---
 
-- 🌱 Currently learning: Python, Raspberry Pi 
-- 🔭 Working on: an Art Installation called "_Woodcutters_"
-- 🌍 Languages: English, Jazz, Python
-- 📫 How to reach me: harlan.hodges@unt.edu 
-- ⚡ Fun fact: I'm a pilot, and used to be a professional skateboarder.
+## What I'm Building 🚀
 
-## My Skills 🧠
+**[What Is Artistry](https://whatisartistry.com)** — a music company focused on creating tools, education, and community for musicians who take their craft seriously. Not for trends. For artistry.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**The Ear Engineer** *(launching 2026)* — a passive ear training iOS app. Runs in the background while you drive, do dishes, brush your teeth. No scores, no grades, no gamification. Just real musical hearing, built through habit.
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+**Woodcutters** — an art installation in progress.
 
-## Featured Projects 💻
+---
 
-### [Project 1 Title](project_1_link)
+## What I Work With 🧠
 
-![Project 1 Screenshot](project_1_screenshot_url)
+- Music composition, orchestration, harmony, ear training
+- MAX/MSP — generative and interactive music systems
+- Python — scripting, automation, music tooling
+- Raspberry Pi — hardware + music experimentation
+- Node.js / Express — web apps (whatisartistry.com)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+---
 
-### [Project 2 Title](project_2_link)
+## Currently 🌱
 
-![Project 2 Screenshot](project_2_screenshot_url)
+- 🎧 Building The Ear Engineer for iOS
+- 🐍 Deepening Python + music technology skills
+- 🍓 Experimenting with Raspberry Pi
+- 🎹 Teaching jazz piano and composition at UNT
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+---
+
+## A Few Things You Might Not Expect ⚡
+
+- I'm a licensed pilot
+- I was a professional skateboarder
+
+---
 
 ## Get in Touch 📬
 
-- www.harlanhodges.com (your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
+- 🌐 [whatisartistry.com](https://whatisartistry.com)
+- 📸 [@whatisartistry](https://instagram.com/whatisartistry)
+- 📧 harlan@whatisartistry.com
